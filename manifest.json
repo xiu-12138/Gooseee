@@ -1,0 +1,9 @@
+{
+    "display_name": "Tavern Sticky",
+    "loading_order": 1,
+    "requires": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "xiu",
+    "version": "1.0.3"
+}
